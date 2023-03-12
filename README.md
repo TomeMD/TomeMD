@@ -28,13 +28,13 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="./img/ubuntu.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/><img src="./img/debian.svg" title="Debian"  alt="Debian" width="40" height="40"/><img src="./img/fedora.svg" title="Fedora"  alt="Fedora" width="40" height="40"/> | <img src="./img/c.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;<img src="./img/bash.svg" title="Bash" alt="Bash" width="40" height="40"/><img src="./img/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="./img/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp; | <img src="./img/aws.svg" title="AWS" alt="AWS" width="40" height="40"/><img src="./img/azure.svg" title="Azure" alt="Azure" width="40" height="40"/> | <img src="./img/docker.svg" title="Docker" alt="Docker" width="40" height="40"/> <img src="./img/apptainer.png" title="Apptainer" alt="Apptainer" width="40" height="40"/>&nbsp; | <img src="./img/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;<img src="./img/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>        &nbsp; |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomeMD&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomeMD&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 ## 🏅 My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TomeMD&theme=transparent&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TomeMD&theme=dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomeMD&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomeMD&show_icons=true&theme=dark)
 
 </div>
