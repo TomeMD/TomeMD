@@ -12,8 +12,6 @@
     </a>
 </div>
 
-
----
 ## 👨‍💻 About Me
 
 - 📖 I'm currently studying a Master's degree in High Performance Computing.
@@ -22,7 +20,6 @@
 - 📲 For more info see my  **[Linkedin profile](https://www.linkedin.com/in/tome-maseda-dorado/?locale=en_US)**.
 
 
----
 ## 🔨 My main Languages and Tools
 
 |                     Linux distributions                      |                    Programming languages                     |                        Cloud services                        |                          Containers                          |                            Tools                             |
@@ -31,9 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomeMD&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
----
 ## 🏅 My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TomeMD&theme=transparent&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
