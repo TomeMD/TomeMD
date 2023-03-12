@@ -2,7 +2,7 @@
     
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm TomeMD</h1>
-    <h3 align="center">I am a computer engineer specialized on IT management. </h3>
+    <h3 align="center">I'm a computer engineer specialized on IT management. </h3>
 </div>
 
 <div id="badges" align="center">
