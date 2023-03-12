@@ -1,5 +1,5 @@
 <div id="content" align="center">
-    
+
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm TomeMD</h1>
     <h3 align="center">I'm a computer engineer specialized on IT management. </h3>
@@ -21,14 +21,16 @@
 📲 For more info see my  **[Linkedin profile](https://www.linkedin.com/in/tome-maseda-dorado/?locale=en_US)**.
 <br><br>
     
+
 ## 🔨 My main Languages and Tools
 
 |                     Linux distributions                      |                    Programming languages                     |                        Cloud services                        |                          Containers                          |                            Tools                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian"  alt="Debian" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora"  alt="Fedora" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>        &nbsp; |
+| <img src="./img/ubuntu.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/><img src="./img/debian.svg" title="Debian"  alt="Debian" width="40" height="40"/><img src="./img/fedora.svg" title="Fedora"  alt="Fedora" width="40" height="40"/> | <img src="./img/c.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;<img src="./img/bash.svg" title="Bash" alt="Bash" width="40" height="40"/><img src="./img/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="./img/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp; | <img src="./img/aws.svg" title="AWS" alt="AWS" width="40" height="40"/><img src="./img/azure.svg" title="Azure" alt="Azure" width="40" height="40"/> | <img src="./img/docker.svg" title="Docker" alt="Docker" width="40" height="40"/><img src="./img/apptainer.png" title="Apptainer" alt="Apptainer" width="50" height="40"/>&nbsp; | <img src="./img/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;<img src="./img/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>        &nbsp; |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomeMD&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
+
 ## 🏅 My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TomeMD&theme=transparent&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
