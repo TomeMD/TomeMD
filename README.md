@@ -17,7 +17,7 @@
 
 📖 I'm currently studying a Master's degree in High Performance Computing.<br>
 🔍 I'm also a researcher on High Performance Computing.<br>
-📫 How to reach me **mail-from-github@tomemaseda.com**.<br>
+📫 How to reach me **tome.maseda@udc.es**.<br>
 📲 For more info see my  **[Linkedin profile](https://www.linkedin.com/in/tome-maseda-dorado/?locale=en_US)**.
 <br><br>
     
