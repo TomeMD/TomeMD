@@ -15,7 +15,7 @@
     
 ## 👨‍💻 About Me
 
-📖 I'm currently studying a Master's degree in High Performance Computing.<br>
+📖 I'm currently carrying out my PhD on IT (about the use of CPU energy consumption as a resource).<br>
 🔍 I'm also a researcher on High Performance Computing.<br>
 📫 How to reach me **tome.maseda@udc.es**.<br>
 🌐 For more info check out my [website](https://tomemaseda.com)
